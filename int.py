@@ -1,0 +1,9 @@
+a=12345
+print(type(a))
+print(a)
+b=0b1010101
+print(b)
+c=0o1234
+print(c)
+d=0x1234
+print(d)

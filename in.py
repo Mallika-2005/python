@@ -1,0 +1,5 @@
+a=int(input("entera"))
+b=int(input("enterb"))
+c=int(input("enterc"))
+print(a+b+c/3)
+

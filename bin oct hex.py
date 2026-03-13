@@ -1,0 +1,13 @@
+#bin()
+a=10
+print(bin(a))
+print(bin(0o1234))
+print(bin(0x123))
+#oct()
+print(oct(a))
+print(oct(0b10101001))
+print(oct(0x123))
+#hex()
+print(hex(a))
+print(hex(0b1010101))
+print(hex(0o123))

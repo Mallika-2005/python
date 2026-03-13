@@ -1,0 +1,6 @@
+a=float(input("enter a:"))
+b=float(input("enter b:"))
+print("area of circle=",3.14*a*a)
+print("area of triangle=",0.5*a*b)
+print("sum of 2 no's=",a+b)
+print ("avg is=",(a+b)/2)
